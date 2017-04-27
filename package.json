@@ -1,0 +1,25 @@
+{
+  "name": "LIRI-bot-inquirer",
+  "version": "1.0.0",
+  "description": "contains dependencies and npm packages required for LIRI-bot to function",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejqassem/LIRI-Bot-Inquirer.git"
+  },
+  "author": "Eyad Qassem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejqassem/LIRI-Bot-Inquirer/issues"
+  },
+  "homepage": "https://github.com/ejqassem/LIRI-Bot-Inquirer#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "omdb": "^0.7.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
